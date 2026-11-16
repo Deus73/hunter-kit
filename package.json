@@ -97,7 +97,7 @@
     "@radix-ui/react-slot": "^1.0.2",
     "@radix-ui/react-toast": "^1.1.5",
     "@tanstack/react-table": "^8.13.2",
-    "axios": "^1.7.1",
+    "axios": "^1.20.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
     "cmdk": "^0.2.1",
@@ -113,7 +113,7 @@
     "react-router-dom": "^6.16.0",
     "tailwind-merge": "^2.2.1",
     "tailwindcss-animate": "^1.0.7",
-    "zod": "^3.22.4"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@electron/notarize": "^2.1.0",
@@ -141,7 +141,7 @@
     "css-loader": "^6.8.1",
     "css-minimizer-webpack-plugin": "^5.0.1",
     "detect-port": "^1.5.1",
-    "electron": "^26.2.1",
+    "electron": "^42.11.16",
     "electron-builder": "^24.6.4",
     "electron-devtools-installer": "^3.2.0",
     "electronmon": "^2.0.2",
@@ -182,7 +182,7 @@
     "webpack": "^5.88.2",
     "webpack-bundle-analyzer": "^4.9.1",
     "webpack-cli": "^5.1.4",
-    "webpack-dev-server": "^4.15.1",
+    "webpack-dev-server": "^6.1.0",
     "webpack-merge": "^5.9.0"
   },
   "build": {
